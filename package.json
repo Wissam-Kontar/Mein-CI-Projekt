@@ -1,0 +1,10 @@
+{
+  "name": "mein-ci-projekt",
+  "version": "1.0.0",
+  "description": "Mein erstes CI-Projekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "build": "mkdir -p build && echo Build erfolgreich"
+  }
+}
